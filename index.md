@@ -1,5 +1,5 @@
 ## Important Links
-- [Hybrid Mode Setup Guide](https://docs.google.com/document/d/1aDvuVqibzC8x0FpuHaJw5llYmERLgU8CwcEHg9hHZqc/edit?tab=t.0)
+- [Hybrid Mode Setup Guide](https://docs.google.com/document/d/1aDvuVqibzC8x0FpuHaJw5llYmERLgU8CwcEHg9hHZqc/mobilebasic)
 - [Light Unofficial Discord](https://discord.gg/XS4T7YH4jF)
 - Community Figma Page (coming soon)
 
