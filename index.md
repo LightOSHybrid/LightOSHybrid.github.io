@@ -7,21 +7,21 @@
 - [Passes](https://github.com/vandamd/passes): An app for the Light Phone III to store codes.
 
 ## In Progress:
-- [ ]  Spotify
-- [ ]  Tetris
+- [ ] Spotify
+- [ ] Tetris
 
 ## Popular Ideas (Updated 5/22):
-- [x]  Passes/Tickets Tool
-- [ ]  _Spotify/Apple Music Tool_ (in progress)
-- [ ]  Email Client
-- [ ]  Weather
-- [ ]  Audiobooks
-- [ ]  Beeper/WhatsApp
-- [ ]  Notes (Improved)
-- [ ]  2FA (TOTP & HOTP)
-- [ ]  QR Code Scanner
-- [ ]  ChatGPT
-- [ ]  Web Browser (?)
-- [ ]  Light Hybrid Launcher
-- [ ]  Community Apps Browser/Remover
-- [ ]  Meditation
+- [x] Passes/Tickets Tool
+- [ ] _Spotify/Apple Music Tool_ (in progress)
+- [ ] Email Client
+- [ ] Weather
+- [ ] Audiobooks
+- [ ] Beeper/WhatsApp
+- [ ] Notes (Improved)
+- [ ] 2FA (TOTP & HOTP)
+- [ ] QR Code Scanner
+- [ ] ChatGPT
+- [ ] Web Browser (?)
+- [ ] Light Hybrid Launcher
+- [ ] Community Apps Browser/Remover
+- [ ] Meditation
